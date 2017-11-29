@@ -10,7 +10,8 @@
     1. Notebook Instance > "Create notebook instance"
     2. Fill out "Notebook instance name"
     3. Select "Notebook instance type" as ml.m4.xlarge
-    4. Select "IAM role" as "AmazonSageMaker...."
+    4. Select "IAM role" as "Create New Role" 
+       Select "None"  for S3 ... , and click "Create Role"
     5. Click on "Create notebook instance" at the bottom
 
 3. Once it is created, click on "Open" 
