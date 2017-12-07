@@ -29,4 +29,4 @@ git clone https://github.com/madanvikram/deep_learning_workshop
 
 7. Click on "deep_learning_workshop"
 
-
+8. If asked to choose a kernel, select "conda_mxnet_p36"
